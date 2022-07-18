@@ -36,8 +36,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/felipestefani/four-card-hero](https://github.com/felipestefani/four-card-hero)
+- Live Site URL: [https://felipestefani.github.io/four-card-hero/](https://felipestefani.github.io/four-card-hero/)
 
 ## My process
 
@@ -45,8 +45,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- Flexbox (mobile)
+- CSS Grid (desktop)
 - Mobile-first workflow
 
 ## Author
